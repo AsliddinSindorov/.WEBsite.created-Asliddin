@@ -1,0 +1,90 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.head{
+    background-color: slategrey;
+    width: 100%;
+    height: 100px;
+}
+
+.first{
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 100px;
+    color: white;
+    font-size: 20px;
+}
+
+.web{
+    color: brown;
+}
+
+.select{
+    margin-left: 900px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+
+.en{
+    text-decoration: none;
+}
+
+.uz{
+    text-decoration: none;
+}
+
+.ru{
+    text-decoration: none;
+}
+
+.background{
+    background-image: url("1.jpg");
+    width: 100%;
+    height: 1000px;
+}
+
+.reference{
+    float: left;
+    margin-top: 150px;
+    color: white;
+    margin-left: 100px;
+}
+
+.her{
+    text-decoration: none;
+    color: aqua;
+}
+
+.three{
+    display: inline-block;
+    background-color: slategrey;
+    width: 100%;
+    height: 150px;
+}
+
+.email{
+    display: inline-block;
+    color: yellowgreen;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.profil{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+}
+
+.for{
+    margin-left: 100px;
+    color: yellowgreen;
+}
+
+.number{
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+}
